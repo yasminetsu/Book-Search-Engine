@@ -19,6 +19,6 @@ Live deployment
 
 <img src="./bs1 (1).png" alt="screenshot">
 <img src="./bs1 (2).png" alt="screenshot">
-<img src="./bs3 (3).png" alt="screenshot">
+<img src="./bs1 (3).png" alt="screenshot">
 
 
