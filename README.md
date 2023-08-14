@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-Live deployment 
+Live deployment https://still-plateau-55550-30341ac5914b.herokuapp.com/
 
 <img src="./bs1 (1).png" alt="screenshot">
 <img src="./bs1 (2).png" alt="screenshot">
